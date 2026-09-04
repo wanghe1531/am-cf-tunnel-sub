@@ -4,5 +4,8 @@
     "type": "module",
     "scripts": {
         "start": "vercel dev"
+    },
+    "dependencies": {
+        "@vercel/speed-insights": "^2.0.0"
     }
 }
